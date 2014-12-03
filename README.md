@@ -1,4 +1,4 @@
-website-auth
+wtx-auth
 ============
 
-Authentication and authorization functionality for `website-core`.
+Authentication and authorization functionality for `wtx-core`.
